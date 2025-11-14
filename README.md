@@ -1,2 +1,6 @@
-# Pogono-clock-for--bersicht
-A small clock for Übersicht in Swedish
+# Pogono clock for Übersicht
+
+A small clock with date for Übersicht in Swedish
+https://tracesof.net/uebersicht/
+
+![Widget Preview](img/pogono-clock-widget.png)
