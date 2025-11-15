@@ -1,4 +1,4 @@
-# Pogono clock for Übersicht
+# Pogono Clock for Übersicht
 
 A small clock-widget with date in Swedish for Übersicht.
 

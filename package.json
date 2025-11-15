@@ -1,5 +1,5 @@
 {
-  "name": "pogono-clock-for--bersicht",
+  "name": "Pogono-Clock",
   "version": "1.0.0",
   "description": "A small clock with date for Übersicht in Swedish https://tracesof.net/uebersicht/",
   "main": "index.js",
