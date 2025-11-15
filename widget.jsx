@@ -36,8 +36,8 @@ const MONTH_SHORT = {
 
 // The different elements are split so I can style the colons. 
 // Months and weekdays are written in lowercase in Swedish.
-export const render = ({ dateString }) => {
-  const [weekdayRaw, day, monthRaw, year, time] = dateString.split(' ')
+export const render = ({ output }) => {
+  const [weekdayRaw, day, monthRaw, year, time] = output.split(' ')
   const weekday = WEEKDAY_SHORT[weekdayRaw.toLowerCase()] || weekdayRaw.toUpperCase()
   const month = MONTH_SHORT[monthRaw.toLowerCase()] || monthRaw.toUpperCase()
   const [hours, minutes, seconds] = time.split(':')
